@@ -4,7 +4,7 @@
 
 <p align="center">
   <b>Embedded / firmware engineer · native iOS & macOS developer · fintech tinkerer</b><br>
-  <sub>Based in Moscow 🇷🇺 — building hardware-adjacent software where C meets Swift meets Python.</sub>
+  <sub>Based in Finland 🇫🇮 — building hardware-adjacent software where C meets Swift meets Python.</sub>
 </p>
 
 <p align="center">
