@@ -12,7 +12,3 @@ Embedded / firmware · native iOS & macOS · a bit of fintech.
 - **[flipper_relay](https://github.com/squazaryu/flipper_relay)** — FlipperRelay app + macOS BLE bridge · `Swift`
 - **[rf-macro-sim](https://github.com/squazaryu/rf-macro-sim)** — MOEX macro scenario simulator · `Python`
 - **[DiskRay-app](https://github.com/squazaryu/DiskRay-app)** — macOS storage cleanup utility · `Swift`
-
-<br>
-
-![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=squazaryu&layout=compact&hide_border=true&theme=tokyonight&title_color=1f6feb&langs_count=6)
