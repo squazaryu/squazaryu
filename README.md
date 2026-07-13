@@ -8,6 +8,7 @@ Developer & analyst — embedded/firmware, native iOS & macOS, market analytics.
 ### Projects
 
 - **[tumoflip](https://github.com/squazaryu/tumoflip)** — custom Flipper Zero firmware (Sub-GHz, NFC, BLE App Bridge) · `C`
+- **[t-vgm-fw](https://github.com/squazaryu/t-vgm-fw)** — RP2040 coprocessor firmware for the Flipper Zero Video Game Module (Tumoflip) · `C`
 - **[unleashed-companion](https://github.com/squazaryu/unleashed-companion)** — native iOS companion for Flipper Zero: BLE file/app management, firmware & plugin installer, Home Assistant relay · `SwiftUI`
 - **[flipper_relay](https://github.com/squazaryu/flipper_relay)** — FlipperRelay app + macOS BLE bridge · `Swift`
 - **[rf-macro-sim](https://github.com/squazaryu/rf-macro-sim)** — MOEX macro scenario simulator · `Python`
