@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="auto" viewBox="0 0 1200 520" preserveAspectRatio="xMidYMid meet" role="img" aria-labelledby="title desc">
+  <title id="title">TumoLab console</title>
+  <desc id="desc">A terminal-style dashboard for TumoLab: Flipper firmware, field tools, Apple platforms and release automation.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="1" stop-color="#15182f"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff8a2a"/>
+      <stop offset="1" stop-color="#ffb86b"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity=".035"/>
+    </pattern>
+  </defs>
+
+  <rect x="2" y="2" width="1196" height="516" rx="26" fill="url(#bg)" stroke="#303653" stroke-width="2"/>
+  <rect x="2" y="2" width="1196" height="516" rx="26" fill="url(#grid)"/>
+
+  <g font-family="SFMono-Regular,Roboto Mono,Menlo,monospace">
+    <rect x="32" y="28" width="1136" height="38" rx="11" fill="#171b32" stroke="#2c3350"/>
+    <circle cx="54" cy="47" r="5" fill="#ff6b6b"/>
+    <circle cx="72" cy="47" r="5" fill="#ffd166"/>
+    <circle cx="90" cy="47" r="5" fill="#52d273"/>
+    <text x="116" y="52" fill="#8f99bd" font-size="13" letter-spacing="1.6">tumolab / profile</text>
+    <text x="1110" y="52" text-anchor="end" fill="#687294" font-size="12">ONLINE</text>
+
+    <g transform="translate(60 96)">
+      <text x="0" y="0" fill="#ff9b45" font-size="14">$ whoami</text>
+      <text x="0" y="36" fill="#f4f6ff" font-size="31" font-weight="700" letter-spacing="1.2">TUMOLAB</text>
+      <text x="0" y="69" fill="#a8b2d6" font-size="16">builder of instruments, not just features</text>
+
+      <text x="0" y="136" fill="#ff9b45" font-size="14">$ focus</text>
+      <text x="0" y="167" fill="#d6dcf5" font-size="16">firmware · field tools · Apple platforms</text>
+      <text x="0" y="194" fill="#d6dcf5" font-size="16">RF / NFC / BLE · release automation</text>
+
+      <text x="0" y="260" fill="#ff9b45" font-size="14">$ on-the-bench</text>
+      <text x="0" y="291" fill="#d6dcf5" font-size="16">Flipper Zero · Module One · C1101</text>
+      <text x="0" y="321" fill="#7fe2d3" font-size="14">status: turning hardware into a coherent system</text>
+    </g>
+
+    <g transform="translate(625 88)">
+      <rect x="0" y="0" width="540" height="390" rx="18" fill="#0d1224" stroke="#303653"/>
+      <text x="30" y="37" fill="#7fe2d3" font-size="14" letter-spacing="1.5">TUMO LAB / SYSTEM MAP</text>
+
+      <path d="M258 106H282M258 278H282M143 145V239M397 145V239" fill="none" stroke="url(#accent)" stroke-width="1.5" stroke-linecap="round" opacity=".66"/>
+
+      <g transform="translate(28 67)">
+        <rect x="0" y="0" width="230" height="78" rx="11" fill="#1b2038" stroke="#4a5278"/>
+        <text x="17" y="31" fill="#ffb86b" font-size="15" font-weight="700">TUMOFLIP</text>
+        <text x="17" y="56" fill="#9ca7ca" font-size="13">C · firmware / radio / NFC</text>
+
+        <rect x="254" y="0" width="230" height="78" rx="11" fill="#1b2038" stroke="#4a5278"/>
+        <text x="271" y="31" fill="#7fe2d3" font-size="15" font-weight="700">COMPANION</text>
+        <text x="271" y="56" fill="#9ca7ca" font-size="13">Swift · iOS / BLE / USB</text>
+
+        <rect x="0" y="172" width="230" height="78" rx="11" fill="#1b2038" stroke="#4a5278"/>
+        <text x="17" y="203" fill="#b9a4ff" font-size="15" font-weight="700">STUDIO</text>
+        <text x="17" y="228" fill="#9ca7ca" font-size="13">SwiftUI · macOS / bench</text>
+
+        <rect x="254" y="172" width="230" height="78" rx="11" fill="#1b2038" stroke="#4a5278"/>
+        <text x="271" y="203" fill="#ffb86b" font-size="15" font-weight="700">PACKAGES</text>
+        <text x="271" y="228" fill="#9ca7ca" font-size="13">Python · catalog / CI</text>
+      </g>
+
+      <text x="30" y="365" fill="#687294" font-size="13">STACK</text>
+      <text x="98" y="365" fill="#d6dcf5" font-size="13">C · C++ · Swift · Python · JavaScript · Shell</text>
+    </g>
+  </g>
+</svg>
