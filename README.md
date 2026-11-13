@@ -11,9 +11,17 @@
   Flipper Zero · RF / NFC · iPhone / macOS · release automation
 </p>
 
+<p align="center">
+  <a href="https://t.me/bumdiary">Telegram · Заметки Бомжа</a>
+  &nbsp; · &nbsp;
+  <a href="https://bumdiary.fabrika.page/">Bum Diary · Website</a>
+</p>
+
 > I work at the seam between a physical device and the person using it: the
 > firmware on the Flipper, the companion app on the phone, the macOS bench, and
 > the package pipeline that makes updates trustworthy.
+>
+> I also build native iOS and macOS apps for everyday work.
 
 ## My workbench
 
@@ -48,6 +56,8 @@ DEVICE I/O    JavaScript · TypeScript · BLE · USB
 
 ## Other things I keep running
 
+[T-DuoBar](https://github.com/squazaryu/T-DuoBar) ·
+[T-Key](https://github.com/squazaryu/T-Key-Releases) ·
 [t-vgm-fw](https://github.com/squazaryu/t-vgm-fw) ·
 [Disk Ray](https://github.com/squazaryu/DiskRay-app) ·
 [FlipperRelay](https://github.com/squazaryu/flipper_relay) ·
